@@ -20,7 +20,8 @@ This assignment will be divided into three tasks:
 
 ## Libraries used in the program:
 * Pandas       => used to display handle dataframes
+* String       => used to perform operations on strings
 * Math         => used to perform mathematical operations such as ceiling()
-* Nltk	       => used to tokenize and perform operations on lines of string
-* Numpy	       => used to perform statistical operations
+* Nltk	       => used to tokenize and parse 
+* Numpy	       => provides a high-performance multidimensional array object
 * Mathplotlib  => used to plot the 2d graph 

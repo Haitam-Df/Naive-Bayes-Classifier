@@ -19,8 +19,8 @@ This assignment will be divided into three tasks:
 * Run Naive Bayes Classifier => A2.py
 
 ## Libraries used in the program:
-* Mathplotlib  => used to plot the 2d graph 
 * Pandas       => used to display handle dataframes
 * Math         => used to perform mathematical operations such as ceiling()
 * Nltk	       => used to tokenize and perform operations on lines of string
 * Numpy	       => used to perform statistical operations
+* Mathplotlib  => used to plot the 2d graph 

@@ -1,6 +1,5 @@
 # Naive-Bayes-Classifier
 
-Naive Bayes Classifier Analysis
 Haitam Daif - 40007112
 
 ## Description:

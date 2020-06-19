@@ -17,8 +17,8 @@ Task 3.1: Stop-word Filtering
 Task 3.2: Word Length Filtering
 
 How to run the program:
-[] Enter the csv file name desired which contains the data into the variable "file" => A2.py
-[] Run Naive Bayes Classifier => A2.py
+[ ] Enter the csv file name desired which contains the data into the variable "file" => A2.py
+[ ] Run Naive Bayes Classifier => A2.py
 
 Libraries used in the program:
 [] Mathplotlib  => used to plot the 2d graph 
